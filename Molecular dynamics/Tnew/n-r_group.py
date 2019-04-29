@@ -34,7 +34,7 @@ for i in range(0,filenum):
     plt.xticks([0,0.5,1,1.5,2],[0,0.5,1,1.5,2])
     plt.yticks([0,5,10,15,20,25,30,35,40],[0,5,10,15,20,25,30,35,40])
     r.clear()
-    n.clear()
+    n.clear() 
 
 plt.tight_layout()
 plt.savefig("properties plot/n-r relationship subplots.png")
