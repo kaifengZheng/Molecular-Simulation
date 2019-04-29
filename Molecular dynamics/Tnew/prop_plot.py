@@ -131,7 +131,7 @@ for i in range(0,len(displacement)):
         plt.xticks(step, xticks, rotation=45)
         plt.grid(0.1, linestyle='--')
         plt.title("Displacements over different temperature")
-        plt.ylabel("Displacement")
+        plt.ylabel("Displacement") 
 
 p1.savefig('properties plot/Displacements over different temperature1')
 p2.savefig('properties plot/Displacements over different temperature2')
