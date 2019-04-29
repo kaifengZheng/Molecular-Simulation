@@ -30,7 +30,7 @@ for i in range(0,filenum):
     plt.xlabel('r')
     plt.ylabel('g')
     r.clear()
-    g.clear()
+    g.clear() 
 plt.tight_layout()
 plt.savefig("properties plot/g-r relationship subplots"+".png")
 plt.show()
