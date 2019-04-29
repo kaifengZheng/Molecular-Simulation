@@ -1,5 +1,5 @@
 ! A fortran95 program for G95
-! By WQY
+! By KFZ
 program rands
     implicit none
     real:: TR, V0
