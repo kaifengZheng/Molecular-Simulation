@@ -98,7 +98,7 @@ plt.text(2.8,0.1,'D='+str(round(pp[1],3))+'T'+str(round(pp[0],3)))
 plt.ylim([0,0.3])
 plt.grid(0.1,linestyle = '--')
 #keep plots tight but not cross each other
-plt.tight_layout() 
+plt.tight_layout()
 plt.savefig('properties plot/Thermal Motion(B) and Diffusion Coefficient(D) VS Temperature Plot')
 #plt.show()
 
