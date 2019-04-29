@@ -61,7 +61,7 @@ for i in range(0,filenum):
         plt.title("T" + str(round(nnn, 1)) + " g-r relationship plot")
         plt.xlabel('r')
         plt.ylabel('g')
-        plt.tight_layout()
+        plt.tight_layout() 
         plt.savefig("g-r relationship plot4/T"+T0+"-"+str(round(nnn,1))+ " g-r relationship plot" + ".png")
     #plt.show()
     r.clear()
