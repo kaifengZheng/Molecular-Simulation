@@ -33,7 +33,7 @@ for i in range(0,filenum):
         plt.yticks(range(0, 50, 10), range(0, 50, 10))
         plt.xlim([0, 2])
         T0 = str(round(T,1))
-    if i==1:
+    if i==1: 
         plt.subplot(1, 2, 2)
         plt.plot(r, n, '.-', color='b')
         plt.grid(0.1, linestyle='--')
