@@ -1,0 +1,9 @@
+This is a simple discription of the files inside this directory. The project contains two parts, 
+studying the properties of Argon melting and calculating the thermal expansion of Argon.
+Tnew contains the first part of the work. The T0.3-T3.6 files with the temperature 0.3-3.6 contains 
+the data calculated in silico. 
+
+xlcd is the second part of this work. the xlcd files named by diffirent lattice constant such as 1.557. 
+There are 5 temperature files inside the xlcd file from 0.3-1.8.
+
+The report file introduces the process how the project work.
